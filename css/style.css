@@ -84,7 +84,7 @@ pre {
   background-color: var(--primary-color);
   color: #fff;
   /* Change from absolute to relative and vice versa */
-  position: relative;
+  position: absolute;
 }
 
 .showcase h1 {
@@ -102,7 +102,7 @@ pre {
 }
 
 .showcase-form {
-  /* position: relative; */
+  position: relative;
   top: 60px;
   height: 350px;
   width: 400px;
