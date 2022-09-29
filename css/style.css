@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@300&display=swap');
 
+/* CSS variables */
 :root {
   --primary-color: #3e12f3;
   --secondary-color: #1c3fa8;
